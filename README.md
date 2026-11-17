@@ -12,7 +12,7 @@
 <img src="Sprites/ImagesForReadMe/Screenshot 2026-02-21 080313.png" width="400"> <img src="Sprites/ImagesForReadMe/Screenshot 2026-02-21 080330.png" width="400"> 
 <img src="Sprites/ImagesForReadMe/Screenshot 2026-02-21 080359.png" width="400"> 
 
-## Other Info
+## Built With
 **Engine:** Godot 4
 
 **Language:** GDScript
