@@ -1,7 +1,5 @@
 <img src="Sprites/logoartforreadme.png" width="500">
 
-# Career Cosmos 
-
 ## About Career Cosmos
 
 **Career Cosmos** is an educational exploration game created in **Godot Game Engine.** You travel to different mini-worlds or planets each themed after a different career. I created this game to be both fun and educational, with a target audience of children learning about careers.
